@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently study **python and deep learning.**
 
-- 📫 email address **stormwyrmx@gmail.com**
+- 📫 Email address **stormwyrmx@gmail.com**
 
 - ⚡I'm **a big fan of Japanese anime.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
