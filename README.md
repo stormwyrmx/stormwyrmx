@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormwyrmx&show_icons=true&locale=en&layout=compact" alt="stormwyrmx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stormwyrmx&show_icons=true&locale=en" alt="stormwyrmx" /></p>
+
+<p><img height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stormwyrmx&theme=monokai" /></p>
