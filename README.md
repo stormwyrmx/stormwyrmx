@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently study **python and deep learning.**
 
+- 📫 email address **stormwyrmx@gmail.com**
+
+- ⚡I'm **a big fan of Japanese anime.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -15,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormwyrmx&show_icons=true&locale=en&layout=compact" alt="stormwyrmx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stormwyrmx&show_icons=true&locale=en" alt="stormwyrmx" /></p>
-
