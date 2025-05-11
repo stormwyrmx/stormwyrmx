@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋 this is stormwyrmx</h1>
 
-- 🔭 I've been **learning Java for about a year and a half now.**
+- 🔭 I've been **learning Java for the past year and a half.**
 
 - 🌱 I’m currently study **python and deep learning.**
 
