@@ -1,5 +1,4 @@
 <h1 align="center">Hello👋 this is stormwyrmx</h1>
-<h3 align="center">A Master's student studying Computer Science at Wuhan University</h3>
 
 - 🔭 I've been **learning Java for about a year and a half now.**
 
