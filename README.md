@@ -1,12 +1,12 @@
 <h1 align="center">Hello👋 this is stormwyrmx</h1>
 
-- 🔭 I've been **learning Java for the past year and a half.**
+- 🔭 I've been **learning Java & Backend Development for the past year and a half.**
 
-- 🌱 I’m currently study **python and deep learning.**
+- 🌱 I’m currently study **python and machine learning.**
 
 - 📫 Email address **stormwyrmx@gmail.com**
 
-- ⚡I'm **a big fan of Japanese anime.**
+- ⚡I enjoy TV series, movies, and **outdoor activities.**
 
 <p align="left">
 </p>
