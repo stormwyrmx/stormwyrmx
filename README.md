@@ -6,9 +6,9 @@
 
 - 📫 Email address **stormwyrmx@gmail.com**
 
-- ⚡ I enjoy **TV series, movies, and outdoor activities.**
+- ⚡ I enjoy **games, TV series & movies, and outdoor activities.**
 
-- 🎉 **Easygoing, humorous, and fun.**
+- 🎉 Easygoing, humorous, and fun.
 
 <p align="left">
 </p>
